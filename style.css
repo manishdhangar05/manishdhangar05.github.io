@@ -1,0 +1,15 @@
+div {
+    border: 5px solid red;
+    border-radius: 5px;
+    background-color: yellow
+   }
+div:hover {
+    background-color: gray;
+    color: black;
+}
+div {
+    border: 5px dotted red;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+div
