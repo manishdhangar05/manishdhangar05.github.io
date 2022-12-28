@@ -1,0 +1,32 @@
+.A{
+    border: 2px solid black;
+    width: 800px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+
+}
+.B{
+    width: 400px;
+    height: 700px;
+
+}
+.B > img{
+    width: 400px;
+    height: 700px;
+}
+.C{
+    position: absolute;
+    top: 100px ;
+    right:100px;
+
+}
+.C >input{
+    border: 0px;
+    padding: 15px;
+    margin: 10px;
+    background: blue ,red ;
+}
+body{
+    background:linear-gradient(blue ,white);
+}

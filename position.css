@@ -1,0 +1,35 @@
+.one{
+    border: 2px solid black;
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: auto;
+}
+.two{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+.three{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 0px;
+}
+.four{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 0px;
+}
+.five{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom:0px;
+    right: 0px;
+}

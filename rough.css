@@ -1,0 +1,11 @@
+#two{
+    border: 20px solid yellow;
+}
+#one{
+    border: 20px solid red;
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    margin: 20px;
+}
